@@ -1,0 +1,18 @@
+==================================================
+【 🍳 Egg Choice Guide 】
+      ____       ____
+     /    \     /    \
+    |      |   |      |
+    | (o)  |   | (o o)|  <- Double Eggs!
+     \____/     \____/
+    
+Eggs are the golden base of any authentic Jianbing!
+* 1 Egg (Classic): The traditional street standard.
+  The egg is cracked onto the jianbing batter and 
+  spread together with it while cooking. It adds a 
+  richer flavor and makes the crepe softer and more 
+  fragrant.
+* 2 Eggs (Deluxe): Double Egg Jianbing uses two eggs 
+  instead of one. It has a stronger egg flavor, a 
+  richer texture, and feels more filling.
+==================================================

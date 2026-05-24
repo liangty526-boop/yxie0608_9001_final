@@ -1,0 +1,16 @@
+==================================================
+【 🥩 Meat Toppings Guide 】
+                     . *  .        _______
+      (=====)       *  .  . *     (_______)   
+   Chicken Strips   Pork Floss   Chinese Ham Sausage
+
+* Chicken Strips: Chicken strips are pieces of seasoned 
+  chicken, usually pan-fried or deep-fried before being 
+  added. They make the jianbing more savory, meaty, and 
+  filling.
+* Pork Floss: Pork floss is dried shredded pork that is 
+  seasoned and cooked until fluffy.
+* Chinese Ham Sausage: Chinese ham sausage is a common 
+  processed sausage in China, often made with meat and 
+  starch.
+==================================================

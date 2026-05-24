@@ -1,0 +1,26 @@
+==================================================
+【 🌱 Herbs & Garnishes Guide 】
+     \ | /   \ | /
+      \|/     \|/
+      ||      ||      <- Chopped Scallions
+    --||--  --||--
+
+      (  )  (  )
+     (    )(    )
+       \  ||  /       <- Cilantro
+        \ || /
+         \||/
+
+      .  .  .  .
+     .   .  .   .
+      .  .  .  .      <- Sesame Seeds
+     .   .  .   .
+
+
+* Chopped Scallions: Chopped scallions are small pieces 
+  of green onion. 
+* Scallions & Cilantro: Cilantro is a fresh herb with a 
+  strong flavor.
+* Sesame Seeds: Sesame seeds are tiny seeds sprinkled on 
+  the jianbing.
+==================================================

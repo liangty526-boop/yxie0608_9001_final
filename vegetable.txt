@@ -1,0 +1,18 @@
+==================================================
+【 🥬 Fresh Veggies Guide 】
+       _      _
+     _( )_  _( )_      
+    (_   _)(_   _)       <- Fresh Lettuce
+      (_)    (_)   
+   
+     || || || ||
+     || || || ||         <- Shredded Radish
+     || || || ||
+Veggies add refreshing texture and balance the savory sauces.
+* Lettuce: Lettuce is a fresh green vegetable with a crisp 
+  texture. It makes the jianbing feel lighter and fresher, 
+  especially with fried toppings inside.
+* Shredded Carrots: Shredded radish is radish cut into thin 
+  strips. It adds a crunchy texture and a light, refreshing 
+  taste to jianbing.
+==================================================
